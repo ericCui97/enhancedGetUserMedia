@@ -1,0 +1,8 @@
+{
+  "name": "enhancedGetUserMedia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ericCui97/enhancedGetUserMedia.git",
+  "author": "yirong.cui <yirong.cui@shopee.com>",
+  "license": "MIT"
+}
